@@ -12,9 +12,9 @@
     The first arguemnt for `Math.pow()` is the base number, and in our case is the `height`.
     The second arguemnt is the exponent which in our case is the number 2.
 
-        ```javascript
+  ```javascript
          let bmi = weight / Math.pow(height, 2);
-        ```
+  ```
 
 4.  But our `height` variable is storing the height in centimeters and we need to convert it to meters for our equation to work, I know, we all hate math, but a simple Google search will answer us!
 
